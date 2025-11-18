@@ -82,7 +82,6 @@ python extract.py
 
 得到赛道的底部中心点作为初始路径点
 
-（Python OpenCV 示例：cv2.connectedComponents、cv2.findContours）
 
 第三步：基于 BFS 的路径拓展（多路径追踪）
 
