@@ -2,6 +2,10 @@
 
 **中国矿业大学（北京）智能车校赛视觉方案 · 快速上手参考**
 
+b站视频讲解连接
+https://www.bilibili.com/video/BV1wWyPBbEmH/?spm_id_from=333.1387.homepage.video_card.click&vd_source=8f69cad8ae7c9475bb7e906e3ab91c65
+
+
 本仓库提供一个轻量级视觉处理示例，可用于智能车校赛视觉算法的调试、图像预处理与线检测等任务。基于 Python + OpenCV + Scikit-learn，适合快速实验与算法验证。
 
 ---
